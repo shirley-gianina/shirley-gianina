@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center">⚡ Hola, I'm Andrei ⚡ </h1>
+  <h1 align="center">⚡ Hola, I'm Shirley Gianina ⚡ </h1>
 </p>
 
 <p align="center">I'm a front-end developer with JavaScript, React, Node, Express, HTML & CSS knowledge.</p>
