@@ -2,7 +2,7 @@
   <h1 align="center">⚡ Hello, I'm Shirley Gianina ⚡ </h1>
 </p>
 
-<p align="center">I'm a front-end developer with JavaScript, Node, Express, HTML & CSS knowledge.</p>
+<p align="center">I'm a front-end developer 🌐 Javascript (ES6) | MySQL | MongoDB | Express | React | NodeJS | HTML & CSS | Bootstrap | Git & GitHub</p>
 <p align="center">:arrow_down: You can find me on :arrow_down: </p>
 
 <p align="center">
