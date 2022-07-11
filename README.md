@@ -28,7 +28,7 @@
 <br />
 <h3 align="center">&#x1f4c8; GitHub Stats</h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ME&theme=dracula&show_icons=true" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shirley-gianina&theme=dracula&show_icons=true" width="450"/>
 <p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirley-gianina&layout=compact&theme=dracula" width="450" />
